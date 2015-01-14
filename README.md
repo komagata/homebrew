@@ -5,20 +5,20 @@ My homebrew scripts.
 ## Installation
 
 ```shell
-$ brew install komagata/homebrew/<formula>`
+$ brew install komagata/homebrew/<formula>
 ```
 
-Or add my tap (recommended):
+Or tap my repos (recommended):
 
 ```shell
-$ brew tap komagata/homebrew`
+$ brew tap komagata/homebrew
 $ brew install <formula>
 ```
 
 Or install via URL (which will not receive updates):
 
 ```shell
-$ brew install https://raw.githubusercontent.com/Homebrew/homebrew-boneyard/master/<formula>.rb
+$ brew install https://raw.githubusercontent.com/komagata/homebrew/master/<formula>.rb
 ```
 
 ## Documentation
